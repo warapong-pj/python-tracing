@@ -1,0 +1,6 @@
+.pre-commit-config.yaml
+docker-compose.yaml
+otel-collector.yaml
+README.md
+tempo.yaml
+Dockerfile
